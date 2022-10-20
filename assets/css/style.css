@@ -2,7 +2,7 @@ html,
 body {
     margin: 0;
     padding: 0;
-    background-color: beige;
+    background-color: orange;
     text-align: center;
 }
 
@@ -14,7 +14,7 @@ h2 {
 h3, 
 p,
 li {
-    color: green;
+    color: darkred;
 }
 
 img {
@@ -28,12 +28,13 @@ main {
 }
 
 nav {
-    background-color: beige;
+    background-color: orange;
     padding: 10px;
 }
 
 nav ul {
-    list-style-type: none;
+    list-style-type:none;
+    
     text-align: center;
 }
 
@@ -55,7 +56,7 @@ nav a:hover {
 #banner {
     width: 100%;
     height: auto;
-    background-color: white;
+    background-color: whiteorange;
 }
 
 #banner img {
